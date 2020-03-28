@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Dillon de Silva</title>
-    <link>https://dillondesilva.com/tags/blog/</link>
+    <link>https://dillondesilva.github.io/tags/blog/</link>
     <description>Recent content in blog on Dillon de Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2019 20:08:42 +0530</lastBuildDate>
     
-	<atom:link href="https://dillondesilva.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dillondesilva.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What&#39;s the Point of this Blog?</title>
-      <link>https://dillondesilva.com/posts/whatsthepoint/</link>
+      <link>https://dillondesilva.github.io/posts/whatsthepoint/</link>
       <pubDate>Sun, 09 Jun 2019 20:08:42 +0530</pubDate>
       
-      <guid>https://dillondesilva.com/posts/whatsthepoint/</guid>
+      <guid>https://dillondesilva.github.io/posts/whatsthepoint/</guid>
       <description>Where do I start? Have you ever sat in front of a computer with the intention of doing something productive? Your mind focuses as you sit in front of the glowing screen where magic is possible. You relax, take a sip of your coffee, place your hands on the keyboard and&amp;hellip; nothing
 This is me right now. A clueless 15 year old who&amp;rsquo;s not quite sure why he&amp;rsquo;s starting a blog just yet.</description>
     </item>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dillon de Silva</title>
-    <link>https://dillondesilva.com/tags/</link>
+    <link>https://dillondesilva.github.io/tags/</link>
     <description>Recent content in Tags on Dillon de Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2019 20:08:42 +0530</lastBuildDate>
     
-	<atom:link href="https://dillondesilva.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dillondesilva.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>https://dillondesilva.com/tags/blog/</link>
+      <link>https://dillondesilva.github.io/tags/blog/</link>
       <pubDate>Sun, 09 Jun 2019 20:08:42 +0530</pubDate>
       
-      <guid>https://dillondesilva.com/tags/blog/</guid>
+      <guid>https://dillondesilva.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>introduction</title>
-      <link>https://dillondesilva.com/tags/introduction/</link>
+      <link>https://dillondesilva.github.io/tags/introduction/</link>
       <pubDate>Sun, 09 Jun 2019 20:08:42 +0530</pubDate>
       
-      <guid>https://dillondesilva.com/tags/introduction/</guid>
+      <guid>https://dillondesilva.github.io/tags/introduction/</guid>
       <description></description>
     </item>
     
