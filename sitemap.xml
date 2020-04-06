@@ -3,53 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dillondesilva.github.io/posts/alittleupdateonme/</loc>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quarantine/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/twoweeksinquarantine/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/alittleupdateonme/</loc>
     <lastmod>2020-03-27T17:24:11+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/</loc>
-    <lastmod>2020-03-27T17:24:11+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dillondesilva.github.io/posts/</loc>
-    <lastmod>2020-03-27T17:24:11+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dillondesilva.github.io/posts/wishiknewappmaking/</loc>
+    <loc>/posts/wishiknewappmaking/</loc>
     <lastmod>2019-06-19T06:23:32+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2019-06-09T20:08:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/categories/blogs/</loc>
+    <loc>/categories/blogs/</loc>
     <lastmod>2019-06-09T20:08:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-06-09T20:08:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/tags/introduction/</loc>
+    <loc>/tags/introduction/</loc>
     <lastmod>2019-06-09T20:08:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/tags/</loc>
+    <loc>/posts/whatsthepoint/</loc>
     <lastmod>2019-06-09T20:08:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dillondesilva.github.io/posts/whatsthepoint/</loc>
-    <lastmod>2019-06-09T20:08:42+05:30</lastmod>
+    <loc>/about/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
