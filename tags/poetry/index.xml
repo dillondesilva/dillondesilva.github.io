@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poetry on Dillon de Silva</title>
+    <link>/tags/poetry/</link>
+    <description>Recent content in poetry on Dillon de Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 10:15:29 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Momentary Appreciation for Sound</title>
+      <link>/posts/soundpoem/</link>
+      <pubDate>Wed, 08 Apr 2020 10:15:29 +1000</pubDate>
+      
+      <guid>/posts/soundpoem/</guid>
+      <description>If all the sounds in the world vanished amongst silence
+If the unique spectrum of tones were to diffuse away
+Oh the treachery
+For I cannot imagine such a world
+A world without sound
+Like the waves radiating through the oceans
+She travels far and wide
+The wild summer parties manifesting with adolescent romance
+The old couple sharing a slow dance
+Whilst the young ones learn to boogie
+Yet here I lay</description>
+    </item>
+    
+  </channel>
+</rss>
