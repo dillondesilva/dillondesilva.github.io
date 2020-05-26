@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on Dillon de Silva</title>
+    <link>/tags/ideas/</link>
+    <description>Recent content in Ideas on Dillon de Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I Decided to Combine Maths, Art and Code</title>
+      <link>/posts/whyidecidedtocombinemartandcode/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/whyidecidedtocombinemartandcode/</guid>
+      <description>I&amp;rsquo;ve always had cross over passions for many different things. Whether it&amp;rsquo;s music or hacking away at a weekend project, a desire to use my creative strengths and see things from a new angle is one of the biggest motivators in terms of learning new things for me.
+My latest development in terms of creative projects has had me venturing into territory using both the left and right hand side of my brain :)</description>
+    </item>
+    
+  </channel>
+</rss>
