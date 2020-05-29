@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Dillon de Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 23:41:57 +1000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ANNOUNCEMENT</title>
+      <link>/posts/artlaunchannouncement/</link>
+      <pubDate>Fri, 29 May 2020 23:41:57 +1000</pubDate>
+      
+      <guid>/posts/artlaunchannouncement/</guid>
+      <description>In my previous post, I talked about my recent leap into the world of creative coding.
+It&amp;rsquo;s with a great deal of excitement and pleasure for me to say that some of my finest and throughly developed artworks are now for sale via my Redbubble shop!
+Being able to create unique and expressive artworks by writing code is something which has been of a great challenge yet adventurous journey.
+It makes me so happy when algorithms, maths, code and colors work seamlessly to eventually produce a final artwork</description>
+    </item>
     
     <item>
       <title>Why I Decided to Combine Maths, Art and Code</title>
