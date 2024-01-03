@@ -8,5 +8,3 @@ name: Dillon de Silva
 bio: true
 icon: ":poop:"
 ---
-
-A core value I believe in is helping others. 

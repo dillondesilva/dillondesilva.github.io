@@ -5,6 +5,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 date: 2023-01-03
 ---
 # Professional Career
+## IDE Group
+### Medical Device Product Developer Intern
 ## WiseTech Global
 ### Software Engineer
 February 2022 - September 2023
