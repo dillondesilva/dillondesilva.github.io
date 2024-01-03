@@ -7,6 +7,12 @@ date: 2023-01-03
 # Professional Career
 ## IDE Group
 ### Medical Device Product Developer Intern
+November 2023 - Present
+- Developed advanced CAD skills such as surfacing, sketching with equations and multi-body parts.
+- Conducted an FEA study for a medical device component
+- Contributed to documents that improved the QMS
+- Assisted with testing and development of product prototypes
+________
 ## WiseTech Global
 ### Software Engineer
 February 2022 - September 2023
