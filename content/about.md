@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: dillondesilva
+jobTitle: Biomedical and software engineer based in Sydney, Australia.
+name: Dillon de Silva
 bio: true
-icon: ":coffee:"
+icon: ":poop:"
 ---
 
-Add your Bio here!:+1:
+A core value I believe in is helping others. 
