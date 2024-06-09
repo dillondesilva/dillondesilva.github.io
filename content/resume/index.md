@@ -7,11 +7,16 @@ date: 2023-01-03
 # Professional Career
 ## IDE Group
 ### Medical Device Product Developer Intern
-November 2023 - Present
+November 2023 - February 2024
+- Conducted a finite element analysis study for a medical device component which resulted in changes to a jig design
+  
+- Implemented a formal technical design review template as part of the QMS
+  
+- Ran tests, gathered and analysed data to determine root causes of fluid loss in a mechanical system as part of an RCA investigation. This informed several design changes for the next device revision.
+  
+- Used basic machinery such as 3D printers and power/hand tools to create prototype/jig components for testing
+  
 - Developed advanced CAD skills such as surfacing, sketching with equations and multi-body parts.
-- Conducted an FEA study for a medical device component
-- Contributed to documents that improved the QMS
-- Assisted with testing and development of product prototypes
 ________
 ## WiseTech Global
 ### Software Engineer
