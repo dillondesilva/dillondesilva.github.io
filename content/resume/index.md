@@ -4,6 +4,12 @@ subtitle: "Here's what I've done so far :smile:"
 date: 2023-01-03
 ---
 # Professional Career
+## Harrison AI
+### AI Engineer
+June 2025 - Present
+- Working on the AI team building models for clinicians
+- Conducting sample efficiency algorithm research for deep neural networks in medical imaging
+_________
 ## IDE Group
 ### Medical Device Engineering Intern
 November 2023 - February 2024
