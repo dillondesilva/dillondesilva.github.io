@@ -3,13 +3,13 @@
 type: misc
 
 # change these
-jobTitle: AI Engineer at Harrison AI | Sydney, Australia
+jobTitle: Machine Learning Engineer at Harrison AI | Sydney, Australia
 name: Dillon de Silva
 bio: true
 icon: ":rocket:"
 ---
 
-I'm an AI engineer based in Sydney, working at Harrison AI on the AI team building models for clinicians. My main interests are machine learning, AI in medicine and making technology that has a meaningful impact on people's lives.
+I'm a machine learning engineer based in Sydney, working at Harrison AI on the AI team building models for clinicians. My main interests are machine learning, AI in medicine and making technology that has a meaningful impact on people's lives.
 
 I studied a double degree in Biomedical Engineering and Computer Science at The University of Sydney. For a more detailed overview of my career and experiences, please visit [my resume](https://dillondesilva.github.io/resume/).
 

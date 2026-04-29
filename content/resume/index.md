@@ -5,10 +5,10 @@ date: 2023-01-03
 ---
 # Professional Career
 ## Harrison AI
-### AI Engineer
+### Machine Learning Engineer
 June 2025 - Present
-- Working on the AI team building models for clinicians
-- Conducting sample efficiency algorithm research for deep neural networks in medical imaging
+- Algorithm development relating to data-efficient sampling for training deep learning models as the subject of my honours research thesis
+- Feature detection algorithms implemented for Harrison.ai CT Chest
 _________
 ## SafetyCulture
 ### Software Engineering Intern
