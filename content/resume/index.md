@@ -10,6 +10,13 @@ June 2025 - Present
 - Working on the AI team building models for clinicians
 - Conducting sample efficiency algorithm research for deep neural networks in medical imaging
 _________
+## SafetyCulture
+### Software Engineering Intern
+December 2024 - February 2025
+- Developed several customer-facing React components
+- Developed a bulk export feature over complex structured data in ASP.NET, reducing access time from hours to seconds
+- Built an agentic AI system using AWS Bedrock, allowing users to more easily interact with the platform and carry out tasks
+_________
 ## IDE Group
 ### Medical Device Engineering Intern
 November 2023 - February 2024
