@@ -4,6 +4,19 @@ subtitle: "Here's what I've done so far :smile:"
 date: 2023-01-03
 ---
 # Professional Career
+## Harrison AI
+### Machine Learning Engineer
+June 2025 - Present
+- Algorithm development relating to data-efficient sampling for training deep learning models as the subject of my honours research thesis
+- Feature detection algorithms implemented for Harrison.ai CT Chest
+_________
+## SafetyCulture
+### Software Engineering Intern
+December 2024 - February 2025
+- Developed several customer-facing React components
+- Developed a bulk export feature over complex structured data in ASP.NET, reducing access time from hours to seconds
+- Built an agentic AI system using AWS Bedrock, allowing users to more easily interact with the platform and carry out tasks
+_________
 ## IDE Group
 ### Medical Device Engineering Intern
 November 2023 - February 2024
